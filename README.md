@@ -1,8 +1,6 @@
 ### DevOps & Backend Developer
 Работаю с автоматизацией и мониторингом
 
-[![Telegram](https://img.shields.io/badge/-@l__palette-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088CC)](https://t.me/l_palette) 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-palette&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-palette&layout=compact)  
 
@@ -20,3 +18,5 @@
   <img src="https://img.shields.io/badge/Mikrotik-1BA0D7?style=for-the-badge&logo=mikrotik&logoColor=white" alt="Mikrotik">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@l__palette-0088CC?style=for-the-badge&logo=telegram&logoColor=0088CC&color=white)](https://t.me/l_palette)
