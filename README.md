@@ -1,4 +1,4 @@
-### NetDevOps 
+### DevOps & Backend Developer
 Работаю с автоматизацией и мониторингом
 
 [![Telegram](https://img.shields.io/badge/Telegram-@l_palette-0088CC?style=flat&logo=telegram)](https://t.me/l_palette)  
