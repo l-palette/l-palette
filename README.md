@@ -1,7 +1,7 @@
 ### DevOps & Backend Developer
 Работаю с автоматизацией и мониторингом
 
-[![Telegram](https://img.shields.io/badge/Telegram-@l_palette-0088CC?style=flat&logo=telegram)](https://t.me/l_palette)  
+[![Telegram](https://img.shields.io/badge/-@l__palette-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088CC)](https://t.me/l_palette) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-palette&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-palette&layout=compact)  
