@@ -1,4 +1,4 @@
-### DevOps & Backend Developer  
+### DevOps & Network Engineer
 Работаю с автоматизацией и мониторингом
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-palette&show_icons=true)  
@@ -12,4 +12,9 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/Zabbix-EA1C24?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Eltex-1BA0D7?style=for-the-badge&logo=eltex&logoColor=white" alt="Eltex">
+  <img src="https://img.shields.io/badge/Huawei-1BA0D7?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
+  <img src="https://img.shields.io/badge/Mikrotik-1BA0D7?style=for-the-badge&logo=mikrotik&logoColor=white" alt="Mikrotik">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
