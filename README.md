@@ -1,4 +1,4 @@
-### NetDevOps & Developer
+### NetDevOps
 Работаю с автоматизацией и мониторингом
 
 <div align="left">
