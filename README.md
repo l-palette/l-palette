@@ -3,7 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-palette&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-palette&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-palette&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=l-palette&theme=default)
 
 
