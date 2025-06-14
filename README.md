@@ -15,7 +15,7 @@
 <!-- Статистика активности -->
 <a href="https://github.com/l-palette">
   <img
-    src="https://streak-stats.demolab.com/?user=l-palette&theme=blue&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=00000000&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=l-palette&theme=blue&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&b&hide_border=true"
     alt="GitHub Streak" 
     height="165"
   />
