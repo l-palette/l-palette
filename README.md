@@ -2,25 +2,13 @@
 Работаю с автоматизацией и мониторингом
 
 <div align="left">
-
-<!-- Языки программирования -->
 <a href="https://github.com/l-palette">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-palette&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-palette&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" 
     alt="Top Languages" 
     height="165"
   />
 </a>
-
-<!-- Статистика активности -->
-<a href="https://github.com/l-palette">
-  <img
-    src="https://streak-stats.demolab.com/?user=l-palette&theme=blue&stroke=58A6FF&ring=58A6FF&fire=58A6FF&theme=transparent&currStreakLabel=58A6FF&b&hide_border=true"
-    alt="GitHub Streak" 
-    height="165"
-  />
-</a>
-
 </div>
 
 ### Stack  
