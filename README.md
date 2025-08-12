@@ -11,7 +11,7 @@
 </a>
 </div>
 
-[Резюме](https://drive.google.com/file/d/11EKfDqer5kMpLdq8L9T5mamoDCSlAO7y/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1XG7IlBMYZSGHVVll4YQvEXfoeSiHQWc3/view?usp=sharing)
 
 ### Stack  
 <div align="left">
