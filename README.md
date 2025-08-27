@@ -11,8 +11,7 @@
 </a>
 </div>
 
-[Резюме](https://drive.google.com/file/d/1tXUbJ8ytB7vEWA-xQklamaQMOvcar7CV/view?usp=drive_link)
-
+[Резюме](https://drive.google.com/file/d/1IBkWVVBEjDO19sxeJsWcxlAgNTVDEZKq/view?usp=sharing)
 ### Stack  
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
