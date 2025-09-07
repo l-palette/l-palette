@@ -1,5 +1,5 @@
 ### NetDevOps
-Работаю с автоматизацией и мониторингом
+<a href="https://drive.google.com/file/d/1IBkWVVBEjDO19sxeJsWcxlAgNTVDEZKq/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV%20-457b9d?style=for-the-badge"/></a>
 
 <div align="left">
 <a href="https://github.com/l-palette">
@@ -11,19 +11,26 @@
 </a>
 </div>
 
-[Резюме](https://drive.google.com/file/d/1IBkWVVBEjDO19sxeJsWcxlAgNTVDEZKq/view?usp=sharing)
-### Stack  
+
+###
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-4169E1?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/Zabbix-EA1C24?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/Eltex-1BA0D7?style=for-the-badge&logo=eltex&logoColor=white" alt="Eltex">
-  <img src="https://img.shields.io/badge/Huawei-1BA0D7?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
-  <img src="https://img.shields.io/badge/Mikrotik-1BA0D7?style=for-the-badge&logo=mikrotik&logoColor=white" alt="Mikrotik">
+</div>
+
+### 
+<div align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/Redis-4169E1?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> 
+</div>
+
+### 
+<div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Zabbix-EA1C24?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
 </div>
