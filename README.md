@@ -1,5 +1,5 @@
 ### NetDevOps
-<a href="https://drive.google.com/file/d/1IBkWVVBEjDO19sxeJsWcxlAgNTVDEZKq/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV%20-457b9d?style=for-the-badge"/></a>
+<a href="https://drive.google.com/file/d/18i_Tlp1I0Prz171ySufkICsWMUhgAkyb/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV%20-457b9d?style=for-the-badge"/></a>
 
 <div align="left">
 <a href="https://github.com/l-palette">
